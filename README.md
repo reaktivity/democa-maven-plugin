@@ -1,2 +1,1 @@
-# maven-democa-plugin
-Maven Demo CA Plugin
+# Demo CA Maven Plugin
